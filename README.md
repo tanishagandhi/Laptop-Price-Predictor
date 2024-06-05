@@ -1,2 +1,2 @@
 # Laptop-Price-Predictor
-The Laptop Price Predictor uses machine learning to estimate laptop prices based on features and specs, helping consumers and sellers make informed decisions with accurate, data-driven insights.
+The Laptop Price Predictor project is a machine learning application designed to estimate the prices of laptops based on their features and specifications. By leveraging historical data and advanced algorithms, this tool provides accurate price predictions, assisting consumers in making informed purchasing decisions and helping sellers price their products competitively. The project involves data collection, preprocessing, model training, and evaluation, ensuring robust performance and reliability in various market conditions.
